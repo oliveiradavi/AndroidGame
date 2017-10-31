@@ -5,7 +5,7 @@ import com.badlogic.gdx.graphics.g2d.SpriteBatch;
 import com.tutdria.gravity.screens.PlayScreen;
 
 public class GravityGame extends Game {
-	public static final int V_WIDTH = 400;
+	public static final int V_WIDTH = 402;
 	public static final int V_HEIGHT = 208;
 	public SpriteBatch batch;
 	
